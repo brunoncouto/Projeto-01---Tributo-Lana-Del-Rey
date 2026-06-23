@@ -1,0 +1,78 @@
+html{
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+    background-color: azure;
+}
+.container{
+    max-width: 1100px;
+    background-color: lightgrey;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 50px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.cabecalho{
+    text-align: center;
+}
+
+.main-title{
+    font-size: 40px;
+}
+
+.main-paragraph{
+    font-style: italic;
+}
+
+.imagem{
+    text-align: center;
+}
+.conteudo-about{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid maroon;
+    border-bottom: 1px solid maroon;
+}
+
+.sobre{
+    text-align: center;
+}
+
+.quote-container{
+    background-color: antiquewhite;
+    padding: 30px;
+
+}.quote-container blockquote{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.quote-container p{
+    font-style: italic;
+    font-size: 20px;
+}
+
+.discografia{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid maroon;
+    border-bottom: 1px solid maroon;
+}
+
+.discografia li{
+    height: 20px;
+    padding: 2px 0;
+}
+
+.img-bold{
+    font-weight: bold;
+    text-align: center;
+}
+
+.mais-sobre a{
+    text-decoration: none;
+    color: maroon;
+    font-weight: 600;
+}
